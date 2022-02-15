@@ -1,0 +1,16 @@
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\Prac1.csproj.AssemblyReference.cache
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\Prac1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\Prac1.AssemblyInfoInputs.cache
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\Prac1.AssemblyInfo.cs
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\Prac1.csproj.CoreCompileInputs.cache
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\bin\Debug\net5.0\Prac1.exe
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\bin\Debug\net5.0\Prac1.deps.json
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\bin\Debug\net5.0\Prac1.runtimeconfig.json
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\bin\Debug\net5.0\Prac1.runtimeconfig.dev.json
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\bin\Debug\net5.0\Prac1.dll
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\bin\Debug\net5.0\ref\Prac1.dll
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\bin\Debug\net5.0\Prac1.pdb
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\Prac1.dll
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\ref\Prac1.dll
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\Prac1.pdb
+C:\Users\al415383\Desktop\ProgramacionII\PracticasProg1\Prac1\obj\Debug\net5.0\Prac1.genruntimeconfig.cache
