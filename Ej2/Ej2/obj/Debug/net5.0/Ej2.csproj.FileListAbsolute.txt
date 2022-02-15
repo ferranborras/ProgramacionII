@@ -1,0 +1,16 @@
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\bin\Debug\net5.0\Ej2.exe
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\bin\Debug\net5.0\Ej2.deps.json
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\bin\Debug\net5.0\Ej2.runtimeconfig.json
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\bin\Debug\net5.0\Ej2.runtimeconfig.dev.json
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\bin\Debug\net5.0\Ej2.dll
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\bin\Debug\net5.0\ref\Ej2.dll
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\bin\Debug\net5.0\Ej2.pdb
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\Ej2.csproj.AssemblyReference.cache
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\Ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\Ej2.AssemblyInfoInputs.cache
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\Ej2.AssemblyInfo.cs
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\Ej2.dll
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\ref\Ej2.dll
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\Ej2.pdb
+C:\Users\al415383\Desktop\ProgramacionII\Ej2\Ej2\obj\Debug\net5.0\Ej2.genruntimeconfig.cache
