@@ -13,11 +13,11 @@
   "project": {
     "version": "22.23.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\al415383\\Desktop\\ProgramacionII\\PracticasProg1\\Prac1\\Prac1.csproj",
-      "projectName": "Prac1",
-      "projectPath": "C:\\Users\\al415383\\Desktop\\ProgramacionII\\PracticasProg1\\Prac1\\Prac1.csproj",
+      "projectUniqueName": "C:\\Users\\al415383\\Desktop\\ProgramacionII\\Ej1\\Ej1\\Ej1.csproj",
+      "projectName": "Ej1",
+      "projectPath": "C:\\Users\\al415383\\Desktop\\ProgramacionII\\Ej1\\Ej1\\Ej1.csproj",
       "packagesPath": "C:\\Users\\al415383\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\al415383\\Desktop\\ProgramacionII\\PracticasProg1\\Prac1\\obj\\",
+      "outputPath": "C:\\Users\\al415383\\Desktop\\ProgramacionII\\Ej1\\Ej1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\al415383\\AppData\\Roaming\\NuGet\\NuGet.Config",

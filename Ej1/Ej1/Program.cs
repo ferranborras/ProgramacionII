@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Prac1
+namespace Ej1
 {
     class Program
     {
@@ -12,11 +12,13 @@ namespace Prac1
             {
                 Console.WriteLine("El precio es de " + numero * 4.50f + " eur.");
                 Console.WriteLine("4.50 eur la unidad.");
-            } else if (numero >=200 && numero <= 500)
+            }
+            else if (numero >= 200 && numero <= 500)
             {
                 Console.WriteLine("El precio es de " + numero * 3.75f + " eur.");
                 Console.WriteLine("3.75 eur la unidad.");
-            } else
+            }
+            else
             {
                 Console.WriteLine("El precio es de " + numero * 3.25f + " eur.");
                 Console.WriteLine("3.25 eur la unidad.");
