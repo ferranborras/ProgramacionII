@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ej3/22.23": {
+        "runtime": {
+          "Ej3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ej3/22.23": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

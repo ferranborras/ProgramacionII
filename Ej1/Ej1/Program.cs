@@ -23,7 +23,7 @@ namespace Ej1
                 Console.WriteLine("El precio es de " + numero * 3.25f + " eur.");
                 Console.WriteLine("3.25 eur la unidad.");
             }
-            string salir = Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }

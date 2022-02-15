@@ -18,7 +18,7 @@ namespace Ej2
             {
                 Console.WriteLine("La cadena " + cadena + " no es capicúa.");
             }
-            string salir = Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
